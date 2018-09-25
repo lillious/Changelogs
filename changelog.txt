@@ -11,3 +11,4 @@ September
 24 - Updated gmap
 24 - Added NPC - Dipper (Explorer)
 -
+25 - Created discord webhook to push updates to the discord server
