@@ -1,0 +1,13 @@
+September
+22 - Added lighting
+22 - Added music
+22 - Created start level
+-
+23 - Created main gmap
+23 - Added bridge
+23 - Added mist
+23 - Added NPC - Mark (Villiger)
+-
+24 - Updated gmap
+24 - Added NPC - Dipper (Explorer)
+-
