@@ -12,3 +12,4 @@ September
 24 - Added NPC - Dipper (Explorer)
 -
 25 - Created discord webhook to push updates to the discord server
+25 - Fixed webhook issues
