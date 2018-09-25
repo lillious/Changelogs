@@ -1,2 +1,2 @@
 # server
-Change Logs
+This is for Lil' Server change logs.
